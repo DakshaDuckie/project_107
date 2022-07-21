@@ -1,0 +1,18 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(171, 204, 218);
+    color: rgb(0, 78, 124);
+}
+#footer{
+    font-size: larger;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(52, 65, 77);
+    color: aliceblue;
+}
+#picture{
+    width: 300;
+    height: 300;
+}
