@@ -1,7 +1,7 @@
 body{
     font-family: 'Raleway', sans-serif;
-    background-color: rgb(171, 204, 218);
     color: rgb(0, 78, 124);
+    background-color: rgb(171, 204, 218);
 }
 #footer{
     font-size: larger;
@@ -9,10 +9,15 @@ body{
     bottom: 0;
     width: 100%;
     text-align: center;
-    background-color: rgb(52, 65, 77);
-    color: aliceblue;
+    background-color: rgb(101, 125, 148);
+    color: rgb(0, 0, 0);
 }
 #picture{
-    width: 300px;
-    height: 300px;
+    width: 430px;
+    height: 430px;
+}
+
+#sound_div{
+    background-color: rgb(135, 170, 205);
+    height: 100%;
 }
